@@ -1,3 +1,4 @@
+#this is a ec2 code
 data "aws_ami" "ubuntu" {
   most_recent = true
 
